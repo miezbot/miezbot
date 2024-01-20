@@ -13,11 +13,6 @@
 
 - 🛡️ Administrator at [VALORANT Indonesia Community](https://discord.gg/valorantindonesia).
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://fb.com/sambolalif" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sambolalif" height="30" width="40" /></a>
-<a href="https://instagram.com/miezlipp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="miezlipp" height="30" width="40" /></a>
-<a href="https://api.whatsapp.com/send?phone=081350102291&text=Mengocok" target="blank"><img align="center" src="https://seeklogo.com/images/W/whatsapp-icon-logo-8CA4FB831E-seeklogo.com.png" height="35" width="35" /></a>
 
  
 ## Languages and Tools
